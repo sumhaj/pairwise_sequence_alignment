@@ -1,0 +1,7 @@
+# input output files
+*.fasta
+*.txt
+
+# Executable files
+*.o
+*pairwise_alignment_algorithm_v1.0.0
